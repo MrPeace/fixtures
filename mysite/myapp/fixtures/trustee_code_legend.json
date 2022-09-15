@@ -1,0 +1,62 @@
+[
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+        {
+            "code": "BNY",
+            "name": "BNY Mellon",
+            "created_at": "2022-09-13",
+            "updated_at": "2022-09-13"
+        }
+    },
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+            {
+                "code": "C",
+                "name": "Citigroup",
+                "created_at": "2022-09-13",
+                "updated_at": "2022-09-13"
+            }
+    },
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+            {
+                "code": "DB",
+                "name": "Deutsche Bank",
+                "created_at": "2022-09-13",
+                "updated_at": "2022-09-13"
+            }
+    },
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+            {
+                "code": "USB",
+                "name": "US Bank",
+                "created_at": "2022-09-13",
+                "updated_at": "2022-09-13"
+            }
+    },
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+            {
+                "code": "WF",
+                "name": "Wells Fargo",
+                "created_at": "2022-09-13",
+                "updated_at": "2022-09-13"
+            }
+    },
+    {
+        "model": "myapp.TrusteeCodeLegend",
+        "fields":
+            {
+                "code": "WT",
+                "name": "Wilmington Trust",
+                "created_at": "2022-09-13",
+                "updated_at": "2022-09-13"
+            }
+    }
+]
